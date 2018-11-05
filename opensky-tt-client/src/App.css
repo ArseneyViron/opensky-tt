@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.table-row:hover{
+  background-color: #ddd;
+  cursor: pointer;
+}
+
